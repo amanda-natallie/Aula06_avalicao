@@ -1,0 +1,33 @@
+Boa noite, prezado aluno(a).
+
+
+Bem vindo(a) à avaliação da disciplina "Optimization Technology".
+
+
+Esta foi planejada para que não ocupe muito de seu tempo e, ao mesmo tempo, o(a) instigue a realizá-la provando que conhece o que estudamos.
+
+
+
+Falando um pouco sobre o que é para ser feito:
+
+
+
+- Na pasta do projeto encontrará o arquivo "index.html". Este arquivo foi planejado para telas grandes (desktop [xl-lg]). 
+
+
+- Se baseando na imagem "Modelo-Artica.png", torne todos os elementos da página adaptáveis para a tela de tablet [md] e celular [sm e xs].
+
+- Nos códigos do arquivo "index.html" você encontrará a tag "<meta author=''>". Coloque seu nome lá. Desta forma saberemos quem foi o gênio que realizou a façanha de tirar a nota mais alta da turma.
+
+- ERRO: a página foi criada usando o HTML-5 "semântico". Mas, há um erro grosseiro que precisa ser corrigido. Isto é vergonhoso! Localize este erro e prove que é um excelente desenvolvedor front-end.
+
+- OPS! O elemento central está sem uma imagem e o alinhamento não está correto. Pedimos a gentileza que arrume estes detalhes, por favor. É terrível entregar um projeto sem um trato fino.
+
+- DESAFIO: o design encontrado no "index.html" foi inspirado em "Modelo-Artica.png", mas não é idêntico. A imagens, bordas, tamanhos de elementos são diferentes. Isto não tem tanta importância. Contudo, repare também que o menu de navegação (nav) se transforma em "dropdown" quando focada para tablet e celulares. Não trabalhamos este tema ainda. Então cabe a você, estudante, resolver como fará tal adaptação: se arriscará a fazer um "link dropdown" ou elaborará uma maneira harmônica de resolver tal problema.
+
+Durante a feitura deste teste agradável, utilize todos os arquivos disponibilizados no curso, bem como os que encontrar na internet. O importante é que o resultado seja satisfatório.
+
+Depois de tudo feito, encaminhe para o sistema apenas o arquivo "index.html" e algum outro que, por ventura, tenha sido modificado.
+
+Boa sorte.
+
