@@ -69,3 +69,47 @@ a:active {
     font-family: monospace;
     font-size: 14px;
 }
+
+.post h2 {
+    font-size: 25px;
+    position: relative;
+    margin-bottom: 30px;
+}
+.post h2::after {
+    content: "";
+    position: absolute;
+    width: 60px;
+    height: 3px;
+    background: black;
+    bottom: -20px;
+    left: 0;
+}
+
+@media only screen and (max-width: 990px) {
+    .post h2 {
+        font-size: 18px;
+    }
+    .post p {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 570px) {
+    .column-reverse-xs {
+        flex-direction: column-reverse;
+    }
+    .m-xs-5 {
+        margin: 30px;
+    }
+}
+
+.carneiros {
+    background: url(../img/carneiros_lg.png) center center no-repeat;
+    background-size: cover;
+    min-height: 320px;
+}
+.cafe {
+    background: url(../img/coffee_lg.png) center center no-repeat;
+    background-size: cover;
+    min-height: 320px;
+}
